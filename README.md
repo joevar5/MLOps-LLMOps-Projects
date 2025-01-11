@@ -1,1 +1,1 @@
-![Project Image](/Users/joeleapen/Notebooks/MLOps-LLMOps-Projects/Screenshot 2025-01-11 at 8.42.39 PM.png)
+![Project Image](https://github.com/joevar5/MLOps-LLMOps-Projects/blob/main/Screenshot%202025-01-11%20at%208.42.39%E2%80%AFPM.png)
